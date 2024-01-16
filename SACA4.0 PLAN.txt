@@ -1,4 +1,4 @@
-Import base_attributes, human, alien, animal, and monster from json
+
 
 Base_attributes (Attributes that can be applied to all)
 	Gender
