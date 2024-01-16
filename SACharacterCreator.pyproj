@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9953f928-4e4d-4c6f-aeb5-3d50ad892fd0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SACreativeAssistant_4.0.py</StartupFile>
+    <StartupFile>SACharacterCreator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>SACreativeAssistant_4.0</Name>
     <RootNamespace>SACreativeAssistant_4.0</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34031.81
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SACreativeAssistant_4.0", "SACreativeAssistant_4.0.pyproj", "{9953F928-4E4D-4C6F-AEB5-3D50AD892FD0}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SACharacterCreator", "SACharacterCreator.pyproj", "{9953F928-4E4D-4C6F-AEB5-3D50AD892FD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +18,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {826B4DD4-92BC-49ED-93B9-92722E3BCE7A}
+		SolutionGuid = {DDE96057-C28C-48F9-A2E9-CDE894EC3FC7}
 	EndGlobalSection
 EndGlobal

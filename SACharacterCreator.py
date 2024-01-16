@@ -1,5 +1,4 @@
 import random as ran
-from turtle import mainloop
 from typing import Optional
 
 
