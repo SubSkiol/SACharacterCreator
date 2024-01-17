@@ -192,7 +192,7 @@ def main():
     main_loop = True
     
     #Various Variables
-    version_name = "SubAlternate's Creativity Assistant (Colorama Enabled)"
+    version_name = "SubAlternate's Creativity Assistant (Colorama Enabled) "
     version_number = "Version 4.1"
     
     print(f"{Fore.RED}Runing {version_name} {version_number}")
